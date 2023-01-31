@@ -3,9 +3,6 @@ import accounts.CreditAccount;
 import accounts.SavingsAccount;
 import clients.Client;
 
-/**
- * Решение задачи по теме: Наследование.Инкапсуляция.Полиморфизм.
- */
 
 public class Main {
 
